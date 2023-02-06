@@ -366,7 +366,7 @@ the first time a given square is hit.
 				}
 			}
 			lineStr = lineStr.substring(0,lineStr.length() - 1);
-			System.out.println(lineStr);
+			//System.out.println(lineStr);
 		}
 	}
 	
